@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jackson Gravino
+- 👋 Olá, eu sou Jackson Gravino, entusiasta de novas tecnologias, estudando a cada dia para me tornar um programador melhor, atuo na área de Front end 
 
 <!---
 - 👀 I’m interested in ...
