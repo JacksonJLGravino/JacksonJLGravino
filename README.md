@@ -3,9 +3,12 @@
 - 💻 Atuo na área de Front-end
 - 👀 Entusiasta de novas tecnologias, estudando a cada dia para me tornar um programador melhor
 
+##
+<a href="https://www.youtube.com/channel/UCuxdIvvTAu9u9-epyn34nQA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<a href="www.linkedin.com/in/jackson-gravino" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href = "mailto:jacksonjlgravino@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 <div>
-  <a href="https://beacons.ai/jacksonjlgravino">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jacksonjlgravino&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacksonjlgravino&layout=compact&langs_count=16&theme=dark"/>
 </div>
