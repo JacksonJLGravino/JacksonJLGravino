@@ -3,7 +3,12 @@
 - 💻 Atuo na área de Front-end
 - 👀 Entusiasta de novas tecnologias, estudando a cada dia para me tornar um programador melhor
 
-![Jackson GitHub stats](https://github-readme-stats.vercel.app/api?username=jacksonjlgravino&show_icons=true&theme=dark)
+
+<div>
+  <a href="https://beacons.ai/jacksonjlgravino">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jacksonjlgravino&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacksonjlgravino&layout=compact&langs_count=16&theme=dark"/>
+</div>
 
 ## Tecnologias
 
