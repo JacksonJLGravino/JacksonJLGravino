@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Jackson Gravino
 ---
-- 💻 Atuo na área de Front-end
+<!-- - 💻 Atuo na área de Front-end -->
 - 👀 Entusiasta de novas tecnologias, estudando a cada dia para me tornar um programador melhor
 
 ##
