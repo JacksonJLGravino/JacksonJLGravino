@@ -2,7 +2,7 @@
 
 - 👀 Entusiasta de novas tecnologias, estudando a cada dia para me tornar um programador melhor
 - Sou um desenvolvedor Full Stack apaixonado por ReactJS e React Native.
-- Atualmente, estou focado em melhorar minhas habilidades no TypeScript e em bando de dados(MongoDB e SQL).
+- Atualmente, estou focado em melhorar minhas habilidades no TypeScript e em banco de dados(MongoDB e SQL).
 
 ## 💻 Minhas Principais Habilidades
 
@@ -22,7 +22,9 @@
 ## Estatísticas do GitHub
 
 <div>
+  <!--
   <img src="https://github-readme-stats.vercel.app/api?username=jacksonjlgravino&theme=transparent&hide=contribs,prs&show_icons=true" />
+  -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacksonjlgravino&layout=compact&langs_count=5&theme=transparent" />
 </div>
  
